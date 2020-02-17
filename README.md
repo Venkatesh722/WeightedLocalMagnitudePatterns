@@ -1,0 +1,2 @@
+# WeightedLocalMagnitudePatterns
+WeightedLocalMagnitudePatterns for recoginition of fraud images
