@@ -12,4 +12,10 @@ Online Link to dataset:- http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 Type of Landmarks used: 81 landmark points
 
+#Running the project
+
+First run the program in the command line using the command python recognize.py --training images/training --testing images/testing
+
+Then after building the pickle.model run the predict.py file to see the results
+
 
