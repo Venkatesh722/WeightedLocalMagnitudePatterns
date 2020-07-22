@@ -5,7 +5,11 @@ In this project I developed a working code based on IEEE paper which is on Digit
 
 # Dataset Used
 Dataset Name :- Large-scale CelebFaces Attributes(CelebA) Dataset
+
+
 Online Link to dataset:- http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+
 Type of Landmarks used: 81 landmark points
 
 
